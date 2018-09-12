@@ -22,5 +22,9 @@
         <name>lu1</name>
         <value>lu1</value>
     </property>
+    <property>
+        <name>lu2</name>
+        <value>lu2</value>
+    </property>
 
 </configuration>
