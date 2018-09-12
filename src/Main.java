@@ -20,6 +20,8 @@ public class Main {
         System.out.println("22222222222222");
         System.out.println("444444444444");
         System.out.println("555555555555");
+        System.out.println("sfrsdafas");
+        System.out.println("55555afasdf5555555");
 
 
 
