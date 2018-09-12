@@ -10,5 +10,9 @@
         <name>dfs.ha.automatic-failover.enabled.ifenghbase</name>
         <value>true</value>
     </property>
+    <property>
+        <name>dfs.ha.namenodes.ifenghbase</name>
+        <value>namenode66,namenode96</value>
+    </property>
 
 </configuration>
