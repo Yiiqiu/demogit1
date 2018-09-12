@@ -25,5 +25,9 @@
         <value>namenode66,namenode96</value>
 
     </property>
+    <property>
+        <name>dfs.namenode.servicerpc-address.ifenghbase.namenode66</name>
+        <value>mnewshbase148v71taiji.cdn.ifengidc.com:8022</value>
+    </property>
 
 </configuration>
