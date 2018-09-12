@@ -14,7 +14,7 @@ public class Main {
         System.out.println("BBBBBBBBBB");
         System.out.println("CCCCCCCCCCC");
         System.out.println("DDDDDDDDDD");
-        System.out.println("EEEEEEEEEE");
+
 
 
 
