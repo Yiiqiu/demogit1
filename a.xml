@@ -18,5 +18,9 @@
         <name>dfs.namenode.rpc-address.ifenghbase.namenode66</name>
         <value>mnewshbase148v71taiji.cdn.ifengidc.com:8020</value>
     </property>
+    <property>
+        <name>lu1</name>
+        <value>lu1</value>
+    </property>
 
 </configuration>
