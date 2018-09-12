@@ -14,5 +14,9 @@
         <name>ha.zookeeper.quorum</name>
         <value>mnewshbase148v71taiji.cdn.ifengidc.com:2181,mnewshbase148v72taiji.cdn.ifengidc.com:2181,mnewshbase148v73taiji.cdn.ifengidc.com:2181,mnewshbase148v74taiji.cdn.ifengidc.com:2181,mnewshbase148v75taiji.cdn.ifengidc.com:2181</value>
     </property>
+    <property>
+        <name>dfs.namenode.rpc-address.ifenghbase.namenode66</name>
+        <value>mnewshbase148v71taiji.cdn.ifengidc.com:8020</value>
+    </property>
 
 </configuration>
