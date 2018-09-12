@@ -5,5 +5,6 @@ public class Main {
     private int d=100;
     public static void main(String[] args) {
         System.out.println("master");
+        System.out.println("master2");
     }
 }
