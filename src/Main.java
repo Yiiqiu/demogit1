@@ -9,6 +9,7 @@ public class Main {
 
 
         System.out.println("dev");
+        System.out.println("master2");
 
     }
 }
