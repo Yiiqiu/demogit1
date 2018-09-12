@@ -4,18 +4,5 @@ public class Main {
     private int c=100;
     private int d=100;
     public static void main(String[] args) {
-
-        System.out.println("master");
-
-
-        System.out.println("dev");
-
-        System.out.println("master2");
-
-        System.out.println("dev2");
-        System.out.println("safasfasfdasf");
-
-
-
     }
 }
