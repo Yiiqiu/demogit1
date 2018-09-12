@@ -22,5 +22,9 @@
         <name>dev1</name>
         <value>dev1</value>
     </property>
+    <property>
+        <name>dev2</name>
+        <value>dev2</value>
+    </property>
 
 </configuration>
