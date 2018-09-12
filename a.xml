@@ -6,5 +6,9 @@
         <name>dfs.nameservices</name>
         <value>ifenghbase</value>
     </property>
+    <property>
+        <name>dfs.ha.automatic-failover.enabled.ifenghbase</name>
+        <value>true</value>
+    </property>
 
 </configuration>
