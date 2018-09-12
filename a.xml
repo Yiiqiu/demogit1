@@ -10,9 +10,16 @@
         <name>dfs.ha.automatic-failover.enabled.ifenghbase</name>
         <value>true</value>
     </property>
+
     <property>
         <name>ha.zookeeper.quorum</name>
         <value>mnewshbase148v71taiji.cdn.ifengidc.com:2181,mnewshbase148v72taiji.cdn.ifengidc.com:2181,mnewshbase148v73taiji.cdn.ifengidc.com:2181,mnewshbase148v74taiji.cdn.ifengidc.com:2181,mnewshbase148v75taiji.cdn.ifengidc.com:2181</value>
+    </property>
+
+    <property>
+        <name>dfs.ha.namenodes.ifenghbase</name>
+        <value>namenode66,namenode96</value>
+
     </property>
 
 </configuration>
